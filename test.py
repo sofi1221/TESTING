@@ -1,1 +1,1 @@
-print(6.1)
+print(7)
