@@ -1,2 +1,2 @@
 print(7)
-print(333333)
+print(3333)
