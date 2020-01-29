@@ -1,2 +1,3 @@
 print(7)
-print(333333)
+print(3)
+print(5)
