@@ -1,2 +1,2 @@
 print(7)
-print(4444)
+print(444)
